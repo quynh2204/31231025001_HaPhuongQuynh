@@ -19,15 +19,13 @@ namespace Module1BaiSo6_HaPhuongQuynh
 
         private void frmCDMessage_Load(object sender, EventArgs e)
         {
-            // Đưa con trỏ vào ô Name
-            txtName.Focus();
             picBig.Visible = true;
             picSmall.Visible = false;
-            
+            // Đưa con trỏ vào ô Name
+            txtName.Focus();          
             // Gán tooltip cho hình ảnh
-            ToolTip toolTip = new ToolTip();
-            toolTip.SetToolTip(picBig, "Click Me");
-            toolTip.SetToolTip(picSmall, "Click Me");
+            toolTip1.SetToolTip(picBig, "Click Me");
+            toolTip1.SetToolTip(picSmall, "Click Me");
         }
         private void picBig_Click(object sender, EventArgs e)
         {
