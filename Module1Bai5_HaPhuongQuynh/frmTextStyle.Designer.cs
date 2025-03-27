@@ -95,7 +95,7 @@
             // 
             radBlue.AutoSize = true;
             radBlue.ForeColor = Color.Blue;
-            radBlue.Location = new Point(32, 155);
+            radBlue.Location = new Point(32, 148);
             radBlue.Name = "radBlue";
             radBlue.Size = new Size(59, 24);
             radBlue.TabIndex = 4;
