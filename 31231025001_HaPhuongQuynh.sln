@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module1BaiSo7_HaPhuongQuynh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module1BaiSo8_HaPhuongQuynh", "Module1BaiSo8_HaPhuongQuynh\Module1BaiSo8_HaPhuongQuynh.csproj", "{742A9689-A9AE-4386-B0E4-7D03918E16F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module1BaiSo9_HaPhuongQuynh", "Module1BaiSo9_HaPhuongQuynh\Module1BaiSo9_HaPhuongQuynh.csproj", "{B13D8FC8-879E-48FE-AA2A-8727FE5BEA13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,6 +58,10 @@ Global
 		{742A9689-A9AE-4386-B0E4-7D03918E16F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{742A9689-A9AE-4386-B0E4-7D03918E16F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{742A9689-A9AE-4386-B0E4-7D03918E16F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B13D8FC8-879E-48FE-AA2A-8727FE5BEA13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B13D8FC8-879E-48FE-AA2A-8727FE5BEA13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B13D8FC8-879E-48FE-AA2A-8727FE5BEA13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B13D8FC8-879E-48FE-AA2A-8727FE5BEA13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
