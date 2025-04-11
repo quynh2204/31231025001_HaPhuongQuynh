@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# 17
+# Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Module1BaiSo1_HaPhuongQuynh", "Module1BaiSo1\Module1BaiSo1_HaPhuongQuynh.csproj", "{92BFC3DC-E574-4FA1-993A-4C93C7DF073E}"
@@ -14,15 +14,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Module1BaiSo5_HaPhuongQuynh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module1BaiSo6_HaPhuongQuynh", "Module1BaiSo6_HaPhuongQuynh\Module1BaiSo6_HaPhuongQuynh.csproj", "{A82ED9AB-53D4-416A-9FFF-8E87478D1027}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module1BaiSo7_HaPhuongQuynh", "Module1BaiSo7_HaPhuongQuynh\Module1BaiSo7_HaPhuongQuynh.csproj", "{1C96F067-5A7E-4301-843E-B0251EA2D4BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Module1BaiSo7_HaPhuongQuynh", "Module1BaiSo7_HaPhuongQuynh\Module1BaiSo7_HaPhuongQuynh.csproj", "{1C96F067-5A7E-4301-843E-B0251EA2D4BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module1BaiSo8_HaPhuongQuynh", "Module1BaiSo8_HaPhuongQuynh\Module1BaiSo8_HaPhuongQuynh.csproj", "{742A9689-A9AE-4386-B0E4-7D03918E16F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Module1BaiSo8_HaPhuongQuynh", "Module1BaiSo8_HaPhuongQuynh\Module1BaiSo8_HaPhuongQuynh.csproj", "{742A9689-A9AE-4386-B0E4-7D03918E16F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module1BaiSo9_HaPhuongQuynh", "Module1BaiSo9_HaPhuongQuynh\Module1BaiSo9_HaPhuongQuynh.csproj", "{B13D8FC8-879E-48FE-AA2A-8727FE5BEA13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Module1BaiSo9_HaPhuongQuynh", "Module1BaiSo9_HaPhuongQuynh\Module1BaiSo9_HaPhuongQuynh.csproj", "{B13D8FC8-879E-48FE-AA2A-8727FE5BEA13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module1BaiSo10_HaPhuongQuynh", "Module1BaiSo10_HaPhuongQuynh\Module1BaiSo10_HaPhuongQuynh.csproj", "{EF4A79DB-1110-4AC2-99D3-78674CE07D9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Module1BaiSo10_HaPhuongQuynh", "Module1BaiSo10_HaPhuongQuynh\Module1BaiSo10_HaPhuongQuynh.csproj", "{EF4A79DB-1110-4AC2-99D3-78674CE07D9F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module1", "Module1", "{B0807334-B39A-45CE-8A52-9F46AC8AF8D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module2", "Module2", "{45E49F9C-FB8E-4995-8D81-3509E55DEBA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{517C46D5-8FD4-4926-8DC6-F59DA79FBC4E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Calculator.BT", "Calculator.BT", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Picture", "Picture\Picture.csproj", "{08778FB5-F34E-47BF-BEDB-D6EB875FA98E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -70,6 +78,14 @@ Global
 		{EF4A79DB-1110-4AC2-99D3-78674CE07D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF4A79DB-1110-4AC2-99D3-78674CE07D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF4A79DB-1110-4AC2-99D3-78674CE07D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{517C46D5-8FD4-4926-8DC6-F59DA79FBC4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517C46D5-8FD4-4926-8DC6-F59DA79FBC4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{517C46D5-8FD4-4926-8DC6-F59DA79FBC4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{517C46D5-8FD4-4926-8DC6-F59DA79FBC4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08778FB5-F34E-47BF-BEDB-D6EB875FA98E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08778FB5-F34E-47BF-BEDB-D6EB875FA98E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08778FB5-F34E-47BF-BEDB-D6EB875FA98E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08778FB5-F34E-47BF-BEDB-D6EB875FA98E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -85,6 +101,8 @@ Global
 		{742A9689-A9AE-4386-B0E4-7D03918E16F5} = {B0807334-B39A-45CE-8A52-9F46AC8AF8D7}
 		{B13D8FC8-879E-48FE-AA2A-8727FE5BEA13} = {B0807334-B39A-45CE-8A52-9F46AC8AF8D7}
 		{EF4A79DB-1110-4AC2-99D3-78674CE07D9F} = {B0807334-B39A-45CE-8A52-9F46AC8AF8D7}
+		{517C46D5-8FD4-4926-8DC6-F59DA79FBC4E} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{08778FB5-F34E-47BF-BEDB-D6EB875FA98E} = {45E49F9C-FB8E-4995-8D81-3509E55DEBA2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F7EC1468-BB3C-4656-9FCC-D1FCD84EF587}
